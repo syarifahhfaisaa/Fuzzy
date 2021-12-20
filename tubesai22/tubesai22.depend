@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588018573 source:c:\users\syarifah faisa\documents\tubesai22\main.cpp
+	<iostream>
+	<stdio.h>
+	<iomanip>
+
